@@ -11,4 +11,4 @@ To work on this project, a good understanding of the color and depth cameras and
 
 Technologies: C++, OpenCV, Microsoft Kinect
 
-Date: March, 2016
+Date: March, 2017

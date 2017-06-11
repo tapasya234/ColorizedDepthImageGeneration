@@ -8,3 +8,7 @@ Data provided: Color and Depth frames of initial and final frames of a sequence,
                Inverse of the intrinsic matrix of the depth camera
 
 To work on this project, a good understanding of the color and depth cameras and the generation of the colorized depth is required along with detection of the orange ball and the purple ball and about calculating relative velocity.
+
+Technologies: C++, OpenCV, Microsoft Kinect
+
+Date: March, 2016
